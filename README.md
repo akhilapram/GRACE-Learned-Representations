@@ -8,7 +8,3 @@ Full datasets for the national, state, and county model can be found in the data
 ## Pre-trained Tile2Vec model
 
 Model weights can be found in the model folder.
-
-## Triplets.
-
-Code to query triplets can be found in the triplets folder.
