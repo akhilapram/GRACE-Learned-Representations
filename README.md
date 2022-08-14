@@ -5,7 +5,8 @@ Code and dataset repository
 
 Full datasets for the national, state, and county model can be found in the dataset folder. 
 
-Queried data for the learned representations and satellite data are also available. 
+Queried data for the learned representations model are available [here](https://drive.google.com/drive/folders/1ppam-mXSu1lU5qwdWOx9BMLIzPB-4mdz?usp=sharing).
+Queried data for satellite data model are available [here](https://drive.google.com/drive/folders/1B5eDUypqXSWVLgMp2x-NSRVlpkgsg9AT?usp=sharing).
 
 ## Pre-trained Tile2Vec model
 
